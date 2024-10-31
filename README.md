@@ -1,16 +1,17 @@
-# controledemedicamentos
+Controle de Medicamentos
+Aplicativo desenvolvido em Flutter para ajudar no controle de medicamentos. Este app permite aos usuários adicionar, visualizar, editar e excluir registros de medicações com detalhes como nome, descrição, dosagem, data de início e intervalo de horas. Os dados são armazenados e sincronizados em tempo real com o Firebase, garantindo acessibilidade e segurança.
 
-A new Flutter project.
+Funcionalidades
+Adicionar Medicação: Permite ao usuário cadastrar novos medicamentos, especificando nome, descrição, uso, dosagem, data de início e intervalo entre doses.
+Visualizar Lista de Medicações: Exibe todas as medicações registradas, com informações detalhadas.
+Editar Medicações: Permite editar os detalhes das medicações diretamente na lista.
+Excluir Medicações: Oferece a opção de remover medicamentos do registro.
+Autenticação: Acesso seguro com autenticação via Firebase.
 
-## Getting Started
+Tecnologias Utilizadas
+Flutter: Framework para desenvolvimento de interfaces nativas.
+Firebase: Banco de dados em tempo real para armazenamento dos dados de medicações.
+Intl Package: Para formatação de datas.
+Sobre
+Este projeto foi desenvolvido como parte de uma atividade acadêmica, com o objetivo de aplicar conceitos de CRUD e integração com serviços em nuvem.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
