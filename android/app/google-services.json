@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "367426872948",
+    "project_id": "controle-de-medicamentos-8f122",
+    "storage_bucket": "controle-de-medicamentos-8f122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367426872948:android:e42543137d149a63d01321",
+        "android_client_info": {
+          "package_name": "com.controle.medicamentos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367426872948-tjg63hu3csliqvi8khav3bg1hkn22rb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK9fXmKE-yT8DdchdosEnR28NMk4rVwuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367426872948-tjg63hu3csliqvi8khav3bg1hkn22rb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
